@@ -1,3 +1,13 @@
 <resources>
+    <string name="list_screen_title">Tasks</string>
+    <string name="search_default_text">Search</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="close_icon">Close Icon</string>
     <string name="app_name">todowithcomposelast</string>
+    <string name ="add_button">Add Button</string>
+    <string name ="empty_content">No Tasks Found.</string>
+    <string name ="sad_face_icon">Sad face icon</string>
+    <string name = "Search_action">Search Tasks</string>
+    <string name = "sort_tasks">Sort Tasks</string>
+    <string name = "delete_all_action">Delete All</string>
 </resources>
